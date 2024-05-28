@@ -12,5 +12,4 @@ Aqui estão algumas ideias para você começar:
 - 🧍‍♀️ procuro me desenvolver mais como pessoa
 - 👩‍❤️‍👨 sou casada
 - 😄 ela/dela
-- ⚡ 
--->
+- ⚡ tenho interesse em aprender mais sobre tecnologia e robótica
