@@ -1,16 +1,16 @@
-## Hi there 👋
+## Olá 👋
 
 <!--
-**mlfariia16/mlfariia16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mlfariia16/mlfariia16** é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece em seu perfil do GitHub.
 
-Here are some ideas to get you started:
+Aqui estão algumas ideias para você começar:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ❗ me chamo Maria Luiza
+- 👩‍🎓 faço curso na novelis
+- 📿 quero aprender mais sobre minha religião
+- 🏡 eu colaboro nas contas de casa
+- 🧍‍♀️ procuro me desenvolver mais como pessoa
+- 👩‍❤️‍👨 sou casada
+- 😄 ela/dela
+- ⚡ 
 -->
